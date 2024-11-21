@@ -500,7 +500,8 @@ contract CodeWithPermit2Test is Test, Constants, TestHelper {
 }
 ```
 
-Conclusion
+### Conclusion
+
 Permit2 represents a major leap in token approval systems. By abstracting the approval process into a standalone contract, it provides both backward compatibility and enhanced security features. Developers can now deliver a seamless user experience by allowing token approvals through off-chain signatures, while users enjoy gasless transactions and reduced friction. With the combination of allowance-based and signature-based transfers, Permit2 offers a flexible, scalable solution for modern dApps.
 This is the future of token approval more efficient, more secure, and more user-friendly.
 
